@@ -3,4 +3,3 @@ opencv-python
 ultralytics==8.0.196
 utils
 config
-sys

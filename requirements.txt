@@ -1,5 +1,5 @@
 streamlit==1.2.0
-opencv-python==4.8.1
+opencv-python
 ultralytics==8.0.196
 utils
 config

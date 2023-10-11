@@ -1,6 +1,7 @@
+pip==23.2.1
 streamlit==1.2.0
 opencv-python
-ultralytics==8.0.196
+ultralytics
 utils
 config
 click==7.0
